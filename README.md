@@ -1,2 +1,3 @@
-# java_snippets
-Useful Java code for common problems. 
+# java-misc
+
+A home for unloved Java code.
